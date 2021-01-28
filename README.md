@@ -7,4 +7,4 @@ First webpage ever using all the concepts taught in the HTML & CSS course in Pro
 - Projects
 - Experience
 
-With usage of pictures, gifs, hyperlinks of sites like WomenTech Network, #IamRemarkable and my social media handles. 
+With usage of pictures, gifs, hyperlinks of sites like WomenTech Network, #IamRemarkable, Github and my social media handles. 
